@@ -16,3 +16,11 @@
 
 
 ## Engineering Team Roles 
+
+### Engineering manager
+
+### Tech Lead
+
+### Architect
+
+### Project Manager
