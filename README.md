@@ -1,6 +1,6 @@
 # Engineering Management Best Practices
 
-[![Generic badge](https://img.shields.io/badge/list%3Fstatus-draft-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/List%20Status-Draft-red.svg)](https://shields.io/)
 
 
 ## 
